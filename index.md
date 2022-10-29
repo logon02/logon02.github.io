@@ -33,8 +33,8 @@ Ethics Papers
 
 ### [Paper 1 Title](/pdf/CSCI325EthicsLCF.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:**  CSCI 325: Object-Oriented Programming
+-   **Grade:**  A
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
