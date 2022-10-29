@@ -59,8 +59,8 @@ Presentations
 
 ### [Presentation 2 Title](/pdf/CSCI301 PresentationLCF.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:**  CSCI 301: Survey of Scripting Languages
+- **Grade:**  A
 
 ---
 
