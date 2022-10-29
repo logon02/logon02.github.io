@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/CSCI405 Presentation #1.pdf)
+### [Presentation 1 Title](/pdf/CSCI405 PresentationLCF.pdf)
 
 - **Class:**  CSCI 405: Principles of Cybersecurity
 - **Grade:**  A
