@@ -36,15 +36,15 @@ Ethics Papers
 -   **Class:**  CSCI 325: Object-Oriented Programming
 -   **Grade:**  A
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Paper 2 Title](/pdf/CSCI 332 Ethics Paper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:**  CSCI 332: Applied Networking
+-   **Grade:**  A
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Paper 3 Title](/pdf/CSCI301 Ethics LCF.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:**  CSCI 301: Survey of Scripting Languages
+-   **Grade:**  A
 
 ---
 
