@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Paper 1 Title](/pdf/CSCI325EthicsLCF.pdf)
 
 -   **Class:**  
 -   **Grade:**
