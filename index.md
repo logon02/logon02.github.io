@@ -57,7 +57,7 @@ Presentations
 - **Grade:**  A
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Title](/pdf/CSCI301 PresentationLCF.pdf)
 
 - **Class:** 
 - **Grade:**
