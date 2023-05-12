@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [File Share Server | CSCI 332](https://github.com/logon02/CSCI-332-FileServer)
+### [File Share Server | CSCI 332](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Number Guessing Game | CSCI 301](project1)
+### [Number Guessing Game | CSCI 301](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Single Cycle Processor | CSCI 330](project1)
+### [Single Cycle Processor | CSCI 330](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
