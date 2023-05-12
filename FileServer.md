@@ -1,11 +1,11 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+File Share Server
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** CSCI 332
+-   **Grade:** A
+-   **Language(s):** C and C++
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
