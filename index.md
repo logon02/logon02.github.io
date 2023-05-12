@@ -7,22 +7,22 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:lcferguson@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Restaurant Menu | CSCI 325](project1)
+### [Restaurant Menu | CSCI 325](RestaurantMenu)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [File Share Server | CSCI 332](project2)
+### [File Share Server | CSCI 332](FileServer)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Number Guessing Game | CSCI 301](project3)
+### [Number Guessing Game | CSCI 301](GuessingGame)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Single Cycle Processor | CSCI 330](project4)
+### [Single Cycle Processor | CSCI 330](SCP)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
