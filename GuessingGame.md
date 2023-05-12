@@ -1,11 +1,11 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Number Guessing Game
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** CSCI 301: Survey of Scripting Languages
+-   **Grade:** A
+-   **Language(s):** Pearl 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
