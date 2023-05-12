@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [File Share Server | CSCI 332](project1)
+### [File Share Server | CSCI 332](https://github.com/logon02/CSCI-332-FileServer)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
