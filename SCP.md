@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Single Cycle Processor
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Class:** CSCI 330: Computer Architechure
+-   **Grade:** A
+-   **Language(s):** Verilog and Assembly
+-   **Source Code Repository:** [features/mastering-markdown]()  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
