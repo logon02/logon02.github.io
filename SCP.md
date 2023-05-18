@@ -6,23 +6,31 @@ Single Cycle Processor
 -   **Class:** CSCI 330: Computer Architechure
 -   **Grade:** A
 -   **Language(s):** Verilog and Assembly
--   **Source Code Repository:** [features/mastering-markdown]()  
+-   **Source Code Repository:** [CSCI 330](https://github.com/logon02/CSCI330-SCP/tree/main)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is an implementation of a 32-bit MIPS (Microprocessor without Interlocked Pipeline Stages) single cycle processor that completes specific instructions such as lw, sw, add, nor, noop, beq, etc.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+In order to run my code with the main test bench that tests all the main instructions of the processor, follow the steps below:
+In the mips32_scp directory use this command:
 
 ```bash
-cd ./project
-python setup.py
+iverilog -o processor testbench.v
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+(This compiles the processor and creates the executable file “processor”)
+
+Run the executable:
+
+```bash
+vvp processor
+```
+
+This will run the testbench file and complete all the instructions.
 
 ## UI Design
 
