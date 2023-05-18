@@ -11,7 +11,7 @@ File Share Server
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is my final project for CSCI 332: Applied Networking. This is a File Share Server and Client program and it has the ability to send text files to another computer on the same network. It uses the IP address and a port number of the destination computer to send the file.
 
 ## How to compile and run the program
 
