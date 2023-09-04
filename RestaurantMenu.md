@@ -25,17 +25,15 @@ When this file is opened, you can now run the project by clicking on the "Run Ja
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+This Java project uses the command line to present the user with the different options for ordering from a restaurant menu. The user can first choose which restaurant they want to order from and the corresponding menu will be printed. They will also have the choice to see the previous reviews on the restaurant choice. The user can add as many items as they want to their order and the receipt will print before they enter their payment information and they will have the option to add a tip if they want. The final receipt will be printed with tax calculated and the payment information can be entered. After the order, the user will have the option to add a review if they choose and then the order will be completed! See the screenshots below for details.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
-
-![screenshot](images/dummy_thumbnail.jpg)  
+![Screenshot 2023-09-04 at 10 38 57](https://github.com/logon02/logon02.github.io/assets/85260424/8a6e09f1-ef44-471f-909e-b94dfef0aa01)
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![Screenshot 2023-09-04 at 11 04 18](https://github.com/logon02/logon02.github.io/assets/85260424/d73d0bdf-2988-4efa-b053-ea392d535077)
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![Screenshot 2023-09-04 at 11 07 02](https://github.com/logon02/logon02.github.io/assets/85260424/9c0536d9-5146-4078-bbc5-8deb80a19e40)
 Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
