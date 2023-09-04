@@ -6,8 +6,8 @@ Number Guessing Game
 -   **Class:** CSCI 301: Survey of Scripting Languages
 -   **Grade:** A
 -   **Language(s):** Pearl 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [CSCI301-GuessingGame](https://github.com/logon02/CSCI301-GuessingGame/tree/main)  
+    (Please [email me](mailto:lcferguson@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
