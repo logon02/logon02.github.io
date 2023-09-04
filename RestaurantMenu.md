@@ -7,7 +7,7 @@ Restaurant Menu
 -   **Grade:** A
 -   **Language(s):** Java
 -   **Source Code Repository:** [CSCI 325](https://github.com/logon02/csci325-Restaurant-menu)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:lcferguson@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
