@@ -3,7 +3,7 @@
 Single Cycle Processor
 ===============
 
--   **Class:** CSCI 330: Computer Architechure
+-   **Class:** CSCI 330: Computer Architecture
 -   **Grade:** A
 -   **Language(s):** Verilog and Assembly
 -   **Source Code Repository:** [CSCI 330](https://github.com/logon02/CSCI330-SCP/tree/main)  
@@ -11,7 +11,7 @@ Single Cycle Processor
 
 ## Project description
 
-This is an implementation of a 32-bit MIPS (Microprocessor without Interlocked Pipeline Stages) single cycle processor that completes specific instructions such as lw, sw, add, nor, noop, beq, etc.
+This is an implementation of a 32-bit MIPS (Microprocessor without Interlocked Pipeline Stages) single-cycle processor that completes specific instructions such as lw, sw, add, nor, noop, beq, etc.
 
 ## How to compile and run the program
 
@@ -34,22 +34,19 @@ This will run the testbench file and complete all the instructions.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The UI for this project is very simple. This single-cycle processor uses the command line to print out the results of the testbench file and display when all the instructions are completed successfully. For each register change, the contents of that register are printed so the user can see what is happening in the background. See examples below.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![image](https://github.com/logon02/logon02.github.io/assets/85260424/2cffeee3-c5f1-4a5c-afe2-57ae1c1a7972)
 
-![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![image](https://github.com/logon02/logon02.github.io/assets/85260424/61113f89-c6be-4018-a1a5-9361949b82cd)
+ 
 Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+This program can be resource-demanding on some computers, so be aware that if there are issues with the execution of the project, it may be due to older components or an old kernel version of Linux. Linux is the easiest way to execute this program, but if there are issues please contact me.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
