@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Restaurant Menu | CSCI 325](RestaurantMenu)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Screenshot 2023-09-04 at 10 38 57](https://github.com/logon02/logon02.github.io/assets/85260424/19995645-9ae4-47fd-8fc8-6e4db4dcb597)
 
 ---
 ### [File Share Server | CSCI 332](FileServer)
