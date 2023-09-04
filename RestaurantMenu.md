@@ -15,14 +15,15 @@ This is our CSCI 325 team-based semester project. This program represents a rest
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+How to run the project.
 
-```bash
-cd ./project
-python setup.py
-```
+Once you have access to the repository, clone the repository or download the ZIP file and place it in the desired location on your computer. I recommend using Visual Studio code to run the project since I found this to be the easiest way. In Visual Studio, it should prompt you to download the Java language support if you do not already have it installed. If you do then you are good to go! You also must install the latest version of the JavaJDK library from this link: https://adoptium.net/temurin/releases/. Make sure to install the appropriate version for your OS.
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Next, you must find the RestaurantMenu.java file in order to run the project. Expand the files RestaurantMenu, src, and open the RestaurantMenu.java file (screenshot below). This is the main file that the project will be run from. 
+
+![Screenshot 2023-09-04 at 10 17 50](https://github.com/logon02/logon02.github.io/assets/85260424/c8e07877-2524-4ca2-99bd-da76145d526d)
+
+When this file is opened, you can now run the project by clicking on the "Run Java" button at the top right of the screen. A terminal should appear and the project should be running! If you have any questions about running this project please contact me.
 
 ## UI Design
 
