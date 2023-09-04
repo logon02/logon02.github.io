@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Single Cycle Processor | CSCI 330](SCP)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![image](https://github.com/logon02/logon02.github.io/assets/85260424/ec8614ca-2406-4804-a038-907e5abaa246)
 
 ---
 
