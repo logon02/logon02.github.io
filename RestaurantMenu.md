@@ -31,9 +31,11 @@ This Java project uses the command line to present the user with the different o
 Fig 1. The launch screen
 
 ![Screenshot 2023-09-04 at 11 04 18](https://github.com/logon02/logon02.github.io/assets/85260424/d73d0bdf-2988-4efa-b053-ea392d535077)
+
 Fig 2. Example output after input is processed.
 
 ![Screenshot 2023-09-04 at 11 07 02](https://github.com/logon02/logon02.github.io/assets/85260424/9c0536d9-5146-4078-bbc5-8deb80a19e40)
+
 Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
