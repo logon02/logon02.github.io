@@ -7,7 +7,7 @@ File Share Server
 -   **Grade:** A
 -   **Language(s):** C and C++
 -   **Source Code Repository:** [CSCI 332](https://github.com/logon02/CSCI-332-FileServer)
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:lcferguson@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
