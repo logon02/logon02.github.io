@@ -7,7 +7,7 @@ Single Cycle Processor
 -   **Grade:** A
 -   **Language(s):** Verilog and Assembly
 -   **Source Code Repository:** [CSCI 330](https://github.com/logon02/CSCI330-SCP/tree/main)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:lcferguson@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
