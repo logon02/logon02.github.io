@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/CSCI325EthicsLCF.pdf)
+### [Ethics in Cybersecurity](/pdf/CSCI325EthicsLCF.pdf)
 
 -   **Class:**  CSCI 325: Object-Oriented Programming
 -   **Grade:**  A
 
-### [Paper 2 Title](/pdf/CSCI 332 Ethics Paper.pdf)
+### [Ethics of Intellectual Property](/pdf/CSCI 332 Ethics Paper.pdf)
 
 -   **Class:**  CSCI 332: Applied Networking
 -   **Grade:**  A
 
-### [Paper 3 Title](/pdf/CSCI301 Ethics LCF.pdf)
+### [Copyright and Licensing Ethics](/pdf/CSCI301 Ethics LCF.pdf)
 
 -   **Class:**  CSCI 301: Survey of Scripting Languages
 -   **Grade:**  A
@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/CSCI405 PresentationLCF.pdf)
+### [Phishing Attacks and Social Engineering](/pdf/CSCI405 PresentationLCF.pdf)
 
 - **Class:**  CSCI 405: Principles of Cybersecurity
 - **Grade:**  A
 
 
-### [Presentation 2 Title](/pdf/CSCI301 PresentationLCF.pdf)
+### [Nvidia Breach](/pdf/CSCI301 PresentationLCF.pdf)
 
 - **Class:**  CSCI 301: Survey of Scripting Languages
 - **Grade:**  A
@@ -65,4 +65,3 @@ Presentations
 ---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
-<!-- Remove above link if you don't want to attributive -->
