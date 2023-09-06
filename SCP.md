@@ -37,11 +37,9 @@ This will run the testbench file and complete all the instructions.
 The UI for this project is very simple. This single-cycle processor uses the command line to print out the results of the testbench file and display when all the instructions are completed successfully. For each register change, the contents of that register are printed so the user can see what is happening in the background. See examples below.
 
 ![image](https://github.com/logon02/logon02.github.io/assets/85260424/2cffeee3-c5f1-4a5c-afe2-57ae1c1a7972)
-
 Fig 1. The launch screen
 
 ![image](https://github.com/logon02/logon02.github.io/assets/85260424/61113f89-c6be-4018-a1a5-9361949b82cd)
- 
 Fig 2. Example output after input is processed.
 
 ## 3. Additional Considerations
