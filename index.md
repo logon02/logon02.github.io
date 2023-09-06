@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Number Guessing Game | CSCI 301](GuessingGame)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![image](https://github.com/logon02/logon02.github.io/assets/85260424/26c17563-f17e-4f8d-ab2d-9fb81576fc6d)
 
 ---
 ### [Single Cycle Processor | CSCI 330](SCP)
