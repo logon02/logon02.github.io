@@ -19,9 +19,9 @@ This is my final project for CSCI 332: Applied Networking. This is a file share 
 To compile this project you will need gcc installed on your system, which works best in Linux or Windows. Once you have gcc installed on your system use these commands:
 
 ```bash
-cd ./CSCI 332 Final Project
-gcc Client.cpp -o Client.out
-./Client.out
+$ cd ./CSCI 332 Final Project
+$ gcc Client.cpp -o client.out
+$ ./client.out
 ```
 
 Now the client should be running.
@@ -29,16 +29,15 @@ Now the client should be running.
 In another terminal, enter these commands to run the server:
 
 ```bash
-cd ./CSCI 332 Final Project
-gcc Server.cpp -o Server.out
+$ cd ./CSCI 332 Final Project
+$ gcc Server.cpp -o server.out
+$ ./server.out
 ```
 Once you have both programs running at the same time, follow the prompts to test the file share server.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+This project uses the command line as the front end to present the user with options and feedback. Ensure that the IP addresses and the port numbers are consistent between the client and the server. The file share requires two projects to be running at once, so the user must use two terminal windows on the machine. See the screenshots below for details:
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
@@ -51,7 +50,7 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+I highly recommend using Ubuntu 20.04 or later because the gcc compiler comes pre-installed. This can be done in Windows, however there are more steps involved when installing and using gcc.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
