@@ -33,7 +33,7 @@ $ cd ./CSCI 332 Final Project
 $ gcc Server.cpp -o server.out
 $ ./server.out
 ```
-Once you have both programs running at the same time, follow the prompts to test the file share server.
+Once you have both programs running at the same time, follow the prompts to test the file share server. The text file that can be shared is the one called test.txt, but feel free to test it with any kind of text file!
 
 ## UI Design
 
