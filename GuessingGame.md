@@ -5,43 +5,41 @@ Number Guessing Game
 
 -   **Class:** CSCI 301: Survey of Scripting Languages
 -   **Grade:** A
--   **Language(s):** Pearl 
+-   **Language(s):** Perl 
 -   **Source Code Repository:** [CSCI301-GuessingGame](https://github.com/logon02/CSCI301-GuessingGame/tree/main)  
     (Please [email me](mailto:lcferguson@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is my number guessing game written in Perl. This program generates a random number between 0 and 100 and allows the user to make a guess. It will tell the user if the guess is too high, too low, or the correct number. Try to guess it in under 10 tries!
 
-## How to compile and run the program
+## How to run the program
 
-How to compile (if applicable) and run the project.
+I found that Linux is the best OS to use when running this program since Perl is an older language and is no longer supported on some systems. Download the code from GitHub or clone the repository. Once you have the code ready, navigate to the file in the Linux terminal. Run the following commands:
 
 ```bash
-cd ./project
-python setup.py
+$ chmod 755 guessingGame.pl
+$ ./guessingGame.pl
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+The game should now be running in the terminal. Guess away!
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+This guessing game uses the CLI (command-line interface) to display the game to users. It is a simple UI and will ask the user to enter their name and will greet them. Then the user can begin guessing by entering a number and the game will display a message informing them if their guess was too high, too low, or spot on!
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
-
-![screenshot](images/dummy_thumbnail.jpg)  
+![image](https://github.com/logon02/logon02.github.io/assets/85260424/d68a261e-f84d-44aa-866b-3b9e5457ed00)
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![image](https://github.com/logon02/logon02.github.io/assets/85260424/3dc375f2-32e8-4f49-abc3-96277618f72e)
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![image](https://github.com/logon02/logon02.github.io/assets/85260424/1808d2f1-34eb-49f1-a551-5c3f0b2722a8)
+Fig 3. Feedback when the number is not guessed.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+I would recommend using Ubuntu 20.04 or later to run this game because it comes with Perl pre-installed. Other versions or Linux distributions can be used but you may have some extra steps involved.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
