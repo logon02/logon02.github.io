@@ -39,13 +39,13 @@ Once you have both programs running at the same time, follow the prompts to test
 
 This project uses the command line as the front end to present the user with options and feedback. Ensure that the IP addresses and the port numbers are consistent between the client and the server. The file share requires two projects to be running at once, so the user must use two terminal windows on the machine. See the screenshots below for details:
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![image](https://github.com/logon02/logon02.github.io/assets/85260424/ae3e4fa3-f1d3-4879-89c1-67c1512427a6)
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![image](https://github.com/logon02/logon02.github.io/assets/85260424/7a5a6009-bb81-4962-9cc4-35b5c42f4c1d)
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![image](https://github.com/logon02/logon02.github.io/assets/85260424/3b3e2b73-83c1-48e6-95f9-8c6967835ef1)
 Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
