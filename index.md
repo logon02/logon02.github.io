@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [File Share Server | CSCI 332](FileServer)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![image](https://github.com/logon02/logon02.github.io/assets/85260424/c9aff121-0247-4386-9f77-9a9c37924ea2)
 
 ---
 ### [Number Guessing Game | CSCI 301](GuessingGame)
