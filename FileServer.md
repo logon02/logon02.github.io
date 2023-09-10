@@ -19,25 +19,25 @@ This is my final project for CSCI 332: Applied Networking. This is a file share 
 To compile this project you will need gcc installed on your system, which works best in Linux or Windows. Once you have gcc installed on your system use these commands:
 
 ```bash
-$ cd ./CSCI 332 Final Project
-$ gcc Client.cpp -o client.out
-$ ./client.out
+> cd ./CSCI 332 Final Project
+> g++ server.cpp -o server -lws2_32
+> server.exe
 ```
 
-Now the client should be running.
+Now the server should be running.
 
-In another terminal, enter these commands to run the server:
+In another terminal, enter these commands to run the client:
 
 ```bash
-$ cd ./CSCI 332 Final Project
-$ gcc Server.cpp -o server.out
-$ ./server.out
+> cd ./CSCI 332 Final Project
+> g++ client.cpp -o client -lws2_32
+> client.exe
 ```
-Once you have both programs running at the same time, follow the prompts to test the file share server. The text file that can be shared is the one called test.txt, but feel free to test it with any text file!
+Once you have both programs running simultaneously, follow the prompts to test the file share server. The text file that can be shared is test.txt, but feel free to try it with any text file!
 
 ## UI Design
 
-This project uses the command line as the front end to present the user with options and feedback. Ensure that the IP addresses and the port numbers are consistent between the client and the server. The file share requires two projects to be running at once, so the user must use two terminal windows on the machine. See the screenshots below for details:
+This project uses the command line as the front end to give the user options and feedback. Ensure that the IP addresses and the port numbers are consistent between the client and the server. The file share requires two projects to be running simultaneously, so the user must use two terminal windows on the machine. See the screenshots below for details:
 
 ![image](https://github.com/logon02/logon02.github.io/assets/85260424/ae3e4fa3-f1d3-4879-89c1-67c1512427a6)
 Fig 1. The launch screen
