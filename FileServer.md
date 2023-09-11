@@ -16,7 +16,7 @@ This is my final project for CSCI 332: Applied Networking. This is a file share 
 
 ## How to compile and run the program
 
-To compile this project you will need gcc installed on your system, which works best in Linux or Windows. Once you have gcc installed on your system use these commands:
+To compile this project you will need gcc installed on your system, which works best on Windows but can be done in Linux. Once you have the gcc compiler installed on your system use these commands:
 
 ```bash
 > cd ./CSCI 332 Final Project
@@ -24,7 +24,7 @@ To compile this project you will need gcc installed on your system, which works 
 > server.exe
 ```
 
-Now the server should be running.
+Now the server should be running. (Please ensure that the server is running before you start the client).
 
 In another terminal, enter these commands to run the client:
 
@@ -50,7 +50,7 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-I highly recommend using Ubuntu 20.04 or later because the gcc compiler comes pre-installed. This can be done in Windows, however there are more steps involved when installing and using gcc.
+If you are using Windows to run the project, I found this article very helpful on how to install all the gcc packages needed on my system: https://dev.to/gamegods3/how-to-install-gcc-in-windows-10-the-easier-way-422j
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
