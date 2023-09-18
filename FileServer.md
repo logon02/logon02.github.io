@@ -50,7 +50,7 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-If you are using Windows to run the project, I found this article very helpful on how to install all the gcc packages needed on my system: [link](https://dev.to/gamegods3/how-to-install-gcc-in-windows-10-the-easier-way-422j) https://dev.to/gamegods3/how-to-install-gcc-in-windows-10-the-easier-way-422j
+If you are using Windows to run the project, I found this article very helpful on how to install all the gcc packages needed on my system: [](https://dev.to/gamegods3/how-to-install-gcc-in-windows-10-the-easier-way-422j) https://dev.to/gamegods3/how-to-install-gcc-in-windows-10-the-easier-way-422j
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
