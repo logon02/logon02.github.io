@@ -15,7 +15,8 @@ This is an implementation of a 32-bit MIPS (Microprocessor without Interlocked P
 
 ## How to compile and run the program
 
-In order to run my code with the main test bench that tests all the main instructions of the processor, follow the steps below:
+In order to run my code you will need to have Verilog installed on your Linux system (I found this article helpful: https://www.geeksforgeeks.org/how-to-install-verilog-hdl-on-linux). To use the test bench with all the main instructions for the processor, follow the steps below.
+
 In the mips32_scp directory use this command:
 
 ```bash
@@ -34,7 +35,7 @@ This will run the testbench file and complete all the instructions.
 
 ## UI Design
 
-The UI for this project is very simple. This single-cycle processor uses the command line to print out the results of the testbench file and display when all the instructions are completed successfully. For each register change, the contents of that register are printed so the user can see what is happening in the background. See examples below.
+The UI for this project is very simple. This single-cycle processor uses the command line to print out the results of the testbench file and display when all the instructions are completed successfully. For each register change, the contents of that register are printed so the user can see what is happening in the background. See examples below:
 
 ![image](https://github.com/logon02/logon02.github.io/assets/85260424/2cffeee3-c5f1-4a5c-afe2-57ae1c1a7972)
 Fig 1. The launch screen
