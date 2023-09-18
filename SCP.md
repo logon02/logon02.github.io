@@ -15,7 +15,7 @@ This is an implementation of a 32-bit MIPS (Microprocessor without Interlocked P
 
 ## How to compile and run the program
 
-In order to run my code you will need to have Verilog installed on your Linux system (I found [this]https://www.geeksforgeeks.org/how-to-install-verilog-hdl-on-linux article helpful). To use the test bench with all the main instructions for the processor, follow the steps below.
+In order to run my code you will need to have Verilog installed on your Linux system (I found [this](https://www.geeksforgeeks.org/how-to-install-verilog-hdl-on-linux) article helpful). To use the test bench with all the main instructions for the processor, follow the steps below.
 
 In the mips32_scp directory use this command:
 
