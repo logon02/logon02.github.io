@@ -25,7 +25,7 @@ When this file is opened, you can now run the project by clicking on the "Run Ja
 
 ## UI Design
 
-This Java project uses the command line to present the user with the different options for ordering from a restaurant menu. The user can first choose which restaurant they want to order from and the corresponding menu will be printed. They will also have the choice to see the previous reviews on the restaurant choice. The user can add as many items as they want to their order and the receipt will print before they enter their payment information and they will have the option to add a tip if they want. The final receipt will be printed with tax calculated and the payment information can be entered. After the order, the user will have the option to add a review if they choose and then the order will be completed! See the screenshots below for details.
+This Java project uses the command line to present the user with the different options for ordering from a restaurant menu. The user can first choose which restaurant to order from and the corresponding menu will be printed. The user will also have the choice to see previous reviews on the restaurant choice. The user can add as many items to an order as desired and a receipt will print before payment information is entered and an option to add a tip is provided. The final receipt will be printed with tax calculated and the payment information can be entered. After the order, the user will have the option to add a review and then the order will be completed! See the screenshots below for details.
 
 ![Screenshot 2023-09-04 at 10 38 57](https://github.com/logon02/logon02.github.io/assets/85260424/8a6e09f1-ef44-471f-909e-b94dfef0aa01)
 Fig 1. The launch screen
